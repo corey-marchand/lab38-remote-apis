@@ -14,7 +14,7 @@
     "react-router-dom": "5.0.1",
     "react-scripts": "3.0.1",
     "superagent": "5.1.0",
-    "uuid": "3.3.2"
+    "uuid": "14.0.0"
   },
   "devDependencies": {},
   "scripts": {
